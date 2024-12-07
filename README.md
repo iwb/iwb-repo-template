@@ -1,7 +1,7 @@
 # [Project Title]
 <!-- Replace this with the title of your project -->
 > **⚠️ Note**
-The related research article to this repository is currently under review. The `README`, DOI, license and links will be updated after the final submission.
+The associated research article for this repository is currently under review or not yet published. Information such as the README, DOI, license, and links will be updated after the article is published.
 
 <!--
 ---------------------------------------------------------
@@ -39,6 +39,8 @@ Introduction
 -->
 ## Introduction
 <!-- Provide a brief description of the project (MUST HAVE) -->
+> **⚠️ Note** Updated after the publication of the research article
+
 This repository provides tools to [briefly describe the purpose of the tools]. The tools include:
 
 1. **[Tool Name]**: [Brief description of the tool's purpose].  
@@ -75,6 +77,7 @@ Resources
 ---------------------------------------------------------
 -->
 ## Resources
+> **⚠️ Note** Updated after the publication of the research article
 ### 1. [Tool Name]
 <!-- Replace with the actual tool name (MUST HAVE) / Example (can be done in several ways) -->
 The tool allows users to:
@@ -99,6 +102,7 @@ Usage Instructions
 ---------------------------------------------------------
 -->
 ## Usage Instructions
+> **⚠️ Note** Updated after the publication of the research article
 <!-- Provide (step-by-step) instructions for each resource/tool (MUST HAVE) / Example (can be done in several ways) -->
 ### [Tool Name]
 1. [Step 1 for usage]
@@ -117,7 +121,7 @@ Citation, License, Acknowledgements
 ---------------------------------------------------------
 -->
 ## Citation and License
-
+> **⚠️ Note** Updated after the publication of the research article
 ### Citation
 <!-- Provide details for citation (RECOMMENDED) -->
 If you use this repository or the tools for your research or industry projects, please cite the following article:
@@ -133,5 +137,6 @@ License
 ---------------------------------------------------------
 -->
 ### License
+> **⚠️ Note** Updated after the publication of the research article
 <!-- Provide license details (RECOMMENDED) -->
 This repository and its contents are licensed under the [License Name]. See the [LICENSE](./LICENSE) file for more details.
