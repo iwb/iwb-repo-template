@@ -6,7 +6,7 @@ This repository provides the templates required for adding new projects to our G
 
 1. **README.md**  
    - This file provides detailed information about your repository, including the project's purpose, usage, and additional resources.
-   - [View the README.md template](./templates/repo-readme.mdREADME.md)
+   - [View the README.md template](./templates/repo-readme.md)
 
 2. **landing-page.html**  
    - This file serves as the entry point for your project's webpage on our GitHub Pages.
