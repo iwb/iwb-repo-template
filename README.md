@@ -1,6 +1,6 @@
 # Repository Submission Guidelines
 
-This repository provides the templates required for adding new projects to our GitHub organization.
+This repository provides the templates required for adding new projects to the iwb GitHub organization.
 
 ## Required Files
 
