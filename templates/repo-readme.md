@@ -15,7 +15,8 @@ TOC
 - [Introduction](#introduction)
 - [Resources](#resources)
 - [Usage Instructions](#usage-instructions)
-- [Citation and License](#citation-and-license)
+- [Citation](#citation)
+- [License](#license)
 
 
 ## Contact
