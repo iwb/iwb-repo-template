@@ -1,5 +1,5 @@
 # [Project Title]
-<!-- To-do (MUST HAVE): Replace the title with the title of your project -->
+<!-- To-do (MUST HAVE): Replace the title with the title of your project / research work -->
 > **⚠️ Note**
 The associated research article for this repository is currently under review or not yet published. Information such as the README, DOI, license, and links will be updated after the article is published.
 
@@ -65,6 +65,9 @@ For more details, please refer to the published article:
 [Link to the article](#)  
 DOI: [Insert DOI here] 
 
+### Abstract
+<!-- (RECOMMENDED) Provide the original abstract or an adjusted one. -->
+
 
 ### Acknowledgements
 <!-- To-do (MUST HAVE if work has been funded): Add any funding acknowledgments -->
@@ -118,18 +121,22 @@ Usage Instructions
 
 <!--
 ---------------------------------------------------------
-Citation, License, Acknowledgements
+Citation
 ---------------------------------------------------------
 -->
-## Citation and License
+## Citation
 > **⚠️ Note** Updated after the publication of the research article
-### Citation
-<!-- To-do (RECOMMENDED): Provide details for citation  -->
+<!-- To-do (RECOMMENDED): Provide details for citation  
+The BibTeX file can be downloaded from the publisher's website. It is recommended that you shorten it by removing the keywords and abstract, for example.
+-->
 If you use this repository or the tools for your research or industry projects, please cite the following article:
 
-[Author List]  
-**[Article Title]**  
-Published in [Conference/Journal Name], [Date].
+```bibtex
+@article{example_key,
+title = {Example Title},
+journal = {...}
+}
+```
 
 
 <!--
@@ -137,7 +144,16 @@ Published in [Conference/Journal Name], [Date].
 License
 ---------------------------------------------------------
 -->
-### License
+## License
 > **⚠️ Note** Updated after the publication of the research article
 <!-- To-do (RECOMMENDED): Provide license details  -->
 This repository and its contents are licensed under the [License Name]. See the [LICENSE](./LICENSE) file for more details.
+
+
+<!--
+---------------------------------------------------------
+Footer
+---------------------------------------------------------
+-->
+---
+For questions, suggestions, or collaboration opportunities, please contact the corresponding author or visit our [institute website](https://www.mec.ed.tum.de/en/iwb/homepage/).
